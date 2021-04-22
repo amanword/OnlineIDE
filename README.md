@@ -32,8 +32,3 @@ Please discuss it with me first, before creating any pull request [new-issue](ht
 - Submissions Page - Last Compile And Run Code will be present in the site
 - Login And Logout - Site secured by Login and Logout authentication using Passport.js
 
-## Contact With Me :busts_in_silhouette:
-
-- Telegram - https://t.me/Rishabhhello
-- Gitter - https://gitter.im/rishabhgarg25699
-
